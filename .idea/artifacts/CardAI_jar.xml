@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CardAI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CardAI_jar</output-path>
+    <root id="archive" name="CardAI.jar">
+      <element id="module-output" name="CardAI" />
+      <element id="extracted-dir" path="$APPLICATION_HOME_DIR$/lib/groovy-all-2.4.12.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
